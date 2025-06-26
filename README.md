@@ -1,4 +1,4 @@
-# Ethical Web Scanner - Multi-Module
+# Web Scanner - Multi-Module
 
 Un outil Python complet et modulaire pour réaliser un audit web simple.  
 Il permet de détecter plusieurs vulnérabilités courantes, analyser les configurations de sécurité, et générer un rapport détaillé.
